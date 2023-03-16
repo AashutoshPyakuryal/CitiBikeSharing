@@ -1,1 +1,13 @@
 # CitiBikeSharing
+
+## Overview of the analysis
+
+### In this analysis, we are examining some data to present to investors about a bikesharing program. The analysis will focus on at the length of time that bikes are checked out for all riders and genders, the number of bike trips for all riders and genders for each hour of each day of the week, and the number of bike trips for each type of user and gender for each day of the week. 
+
+## Results 
+Using these this [storyboard](https://public.tableau.com/app/profile/aashutosh.pyakuryal/viz/CitibikeStory_16789344604880/CitibikeStory?publish=yes) and this [storyboard](https://public.tableau.com/authoring/Citibike_16787678661000/NYCCitiBike/Story%201#1), I was able to display some of the data assessed during this project. Between the two storyboards,we see that most bikes are used for 20 minutes or less and that men dominated the ridership. 
+
+<div class='tableauPlaceholder' id='viz1678936122263' style='position: relative'><noscript><a href='#'><img alt='Citibike Sharing Analysis ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GY&#47;GYSYXCCCT&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;GYSYXCCCT' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GY&#47;GYSYXCCCT&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1678936122263');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+## Summary
+All in all, we see that bikesharing is most common among men and during the evening on thursday, with some traffic during weekday mornings as well. Two other visualizations that would be relevant is seeing what age groups ride at what times, and the age breakdown among gender.
